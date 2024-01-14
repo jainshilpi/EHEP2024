@@ -1,0 +1,15 @@
+###fname genEnergy
+input_singlex_1.0sigma_noise0.040	10
+input_singlex_1.5sigma_noise0.040	10
+input_singlex_2.0sigma_noise0.040	10
+input_singlex_2.5sigma_noise0.040	10
+input_singlex_3.0sigma_noise0.040	10
+input_singlex_3.5sigma_noise0.040	10
+input_singlex_4.0sigma_noise0.040	10
+input_singlex_4.5sigma_noise0.040	10
+input_singlex_5.0sigma_noise0.040	10
+input_singlex_6.0sigma_noise0.040	10
+input_singlex_7.0sigma_noise0.040	10
+input_singlex_8.0sigma_noise0.040	10
+input_singlex_9.0sigma_noise0.040	10
+input_singlex_10sigma_noise0.040	10
