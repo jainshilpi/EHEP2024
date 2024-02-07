@@ -1,3 +1,4 @@
+/// adapted from the code written by Satyaki Bhattacharya
 
 const int ncells = 60;
 double xmax = 30;
